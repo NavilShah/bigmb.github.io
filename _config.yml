@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/bigmb"
+  github           : "bigmb"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/malav_mb/"
+  instagram        : "malav_mb"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/malav-bateriwala/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "malav-bateriwala/"
+ # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
