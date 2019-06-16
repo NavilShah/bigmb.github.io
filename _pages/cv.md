@@ -62,24 +62,25 @@ Softwares
 Libraries, Tools, Frameworks
 =======
 
-OpenCV, Pytorch, TensorFlow, Keras , Pandas, Numpy, SimpleITK, scipy, scikit-learn, Robot
-Operating System (ROS), Gazebo, Open Motion Planning Library (OMPL), Point Cloud Library
-(PCL),MESHLab, MevisLab
+* OpenCV, Pytorch, TensorFlow, Keras , Pandas, Numpy, SimpleITK, scipy, scikit-learn, Robot
+ Operating System (ROS), Gazebo, Open Motion Planning Library (OMPL), Point Cloud Library
+ (PCL),MESHLab, MevisLab
 
 Professional Certificates
 =======
 
-2018 - OpenCV , for Python and Machine Learning, Udemy
-2018 - Machine Learning , with Python and Keras, Udemy
-2016 - Beckhoff , TwinCat - NCI training, Beckhoff Gmbh
+* 2018 - OpenCV , for Python and Machine Learning, Udemy
+* 2018 - Machine Learning , with Python and Keras, Udemy
+* 2016 - Beckhoff , TwinCat - NCI training, Beckhoff Gmbh
 
 Awards & Extracurricular Activity
 ========
-2018 - International Scholarship , Erasmus Mobility Grant
-2018  - Scholarship , Regional Burgundy Grant for International Education
-2017  - Satanders Grant , UdG grant for Tuition Fees
-2013  - Finalist , Corporate Business Paper Presentation
-2013  - 12th Position , ASIA Level RoboWar-60 Kg Competition
-2012  - 3rd Position , ASIA Level RoboWar-20 kg Competition
-2012-13 -  Publicity Head , IEEE Student Chapter PDPU, India
-2011-13 - Captain , Lawn Tennis Team
+
+* 2018 - International Scholarship , Erasmus Mobility Grant
+* 2018  - Scholarship , Regional Burgundy Grant for International Education
+* 2017  - Satanders Grant , UdG grant for Tuition Fees
+* 2013  - Finalist , Corporate Business Paper Presentation
+* 2013  - 12th Position , ASIA Level RoboWar-60 Kg Competition
+* 2012  - 3rd Position , ASIA Level RoboWar-20 kg Competition
+* 2012-13 -  Publicity Head , IEEE Student Chapter PDPU, India
+* 2011-13 - Captain , Lawn Tennis Team
