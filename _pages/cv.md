@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Download my CV : [1]
+
+[1]:{{ site.url }}/files/Malav_CV (2).pdf
+
 Education
 ======
 * M.S. in Computer Vision and Robotics (VIBOT), 2017 - 2019
