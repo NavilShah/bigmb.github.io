@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Vision and Robotics (VIBOT), 2017 - 2019
-  * University of Bourgogne , France , Aug 2017 - Jan 2018 (1st Semester)
-  * University of Girona , Spain , Feb 2018 - June 2018 (2nd Semester)
-  * Heriot - Watt University , Scotland , Sept 2018- Jan 2019 (3rd Semester)
+   * University of Bourgogne , France , Aug 2017 - Jan 2018 (1st Semester)
+   * University of Girona , Spain , Feb 2018 - June 2018 (2nd Semester)
+   * Heriot - Watt University , Scotland , Sept 2018- Jan 2019 (3rd Semester)
  
 * B.S. in Electrical Engineering, Pandit Deendayal Petroluem University, 2010-2014
 
