@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Vision and Robotics (VIBOT), 2017 - 2019
- * University of Bourgogne , France , Aug 2017 - Jan 2018 (1st Semester)
- * University of Girona , Spain , Feb 2018 - June 2018 (2nd Semester)
- * Heriot - Watt University , Scotland , Sept 2018- Jan 2019 (3rd Semester)
+  * University of Bourgogne , France , Aug 2017 - Jan 2018 (1st Semester)
+  * University of Girona , Spain , Feb 2018 - June 2018 (2nd Semester)
+  * Heriot - Watt University , Scotland , Sept 2018- Jan 2019 (3rd Semester)
  
 * B.S. in Electrical Engineering, Pandit Deendayal Petroluem University, 2010-2014
 
@@ -26,7 +26,7 @@ Work experience
   * Tools : Pytorch, OpenCv, Scipy, SimpleITK, Tensorboard 
   * Supervisor: Dr. Pierrick Bourgeat
   
- * Summer Internship, Jun 2018 - Aug 2018
+* Summer Internship, Jun 2018 - Aug 2018
   * Keepsake Automation Pvt. Ltd. Ahmedabad, India
   * Developed a system for continuous part inspection of automation line to check for defects and deformation using machine    learning models and thermography.
   * Tools : Keras, Tensorflow, Tensorboard, numpy, Flir E50 package
@@ -37,10 +37,10 @@ Work experience
   * Recognized for developing turnkey solution for customers like L&T, Indian Railways, TATA Motors, Mahendra etc.
 
 * Customer Service Engineer, June 2014 - April 2016
- * KUKA Robotics India Pvt. Ltd. , Pune, India
- * Responsible for Onsite programming , servicing and training of Robots.
- * Promoted to hotline support to international clients in Welding and Vision Application.
- * Major Sites - Ford Motors , Volkswagen, TATA Motors, Magna Cosma, Mercedes, MRF Tires
+  * KUKA Robotics India Pvt. Ltd. , Pune, India
+  * Responsible for Onsite programming , servicing and training of Robots.
+  * Promoted to hotline support to international clients in Welding and Vision Application.
+  * Major Sites - Ford Motors , Volkswagen, TATA Motors, Magna Cosma, Mercedes, MRF Tires
 
 Publications and Posters
 ======
